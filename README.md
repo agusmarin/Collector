@@ -12,4 +12,4 @@ Este juego corre en Python, dentro de la librera Pilas-Engine, especificamente l
 Contacto
 --------
 Los desarrolladores de el juego, Agustin Marin y Juan Frattin, esperamos que si tienen sugerencias, dudas o cualquier consulta puenda consultarnos sin problemas.
-  Aguus.marin@hotmail.com
+  **Aguus.marin@hotmail.com**
